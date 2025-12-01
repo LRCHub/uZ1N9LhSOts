@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "There's No Ending",
+  "base_artist": "RUANN",
+  "createdAt": "2025-12-01T04:06:16.563416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's No Ending",
+      "artist": "RUANN",
+      "has_synced": true,
+      "path": "select/01_There's_No_Ending_RUANN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There's No Ending",
+      "artist": "RUANN",
+      "has_synced": false,
+      "path": "select/pl_01_There's_No_Ending_RUANN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "There's No Ending",
+      "artist": "RUANN",
+      "has_synced": false,
+      "path": "select/pl_02_There's_No_Ending_RUANN.txt"
+    }
+  ]
+}
